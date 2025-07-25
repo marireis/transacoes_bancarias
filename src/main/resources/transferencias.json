@@ -1,0 +1,5602 @@
+[
+  {
+    "tipo": "DOC",
+    "valor": 1099.33,
+    "dataHora": "2025-07-27T11:28:00",
+    "origem": "193231-3",
+    "destino": "275922-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3459.54,
+    "dataHora": "2025-07-19T04:09:00",
+    "origem": "195618-3",
+    "destino": "881266-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8332.78,
+    "dataHora": "2025-07-16T02:42:00",
+    "origem": "776725-4",
+    "destino": "576054-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2338.05,
+    "dataHora": "2025-07-30T22:25:00",
+    "origem": "686470-7",
+    "destino": "645190-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 111.54,
+    "dataHora": "2025-07-01T23:48:00",
+    "origem": "793689-8",
+    "destino": "395690-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2643.21,
+    "dataHora": "2025-07-04T01:18:00",
+    "origem": "677349-9",
+    "destino": "242721-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5397.0,
+    "dataHora": "2025-07-11T17:34:00",
+    "origem": "545030-2",
+    "destino": "125225-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1454.13,
+    "dataHora": "2025-07-17T11:51:00",
+    "origem": "820278-4",
+    "destino": "492096-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1141.95,
+    "dataHora": "2025-07-09T07:59:00",
+    "origem": "142941-5",
+    "destino": "559193-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6577.76,
+    "dataHora": "2025-07-15T18:13:00",
+    "origem": "681859-9",
+    "destino": "636794-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9800.65,
+    "dataHora": "2025-07-02T22:13:00",
+    "origem": "640008-5",
+    "destino": "421481-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9179.27,
+    "dataHora": "2025-07-28T06:28:00",
+    "origem": "790965-9",
+    "destino": "339055-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7819.32,
+    "dataHora": "2025-07-03T17:53:00",
+    "origem": "733236-3",
+    "destino": "194167-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5064.98,
+    "dataHora": "2025-07-30T12:09:00",
+    "origem": "199214-1",
+    "destino": "267764-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 941.21,
+    "dataHora": "2025-07-10T14:37:00",
+    "origem": "879648-8",
+    "destino": "339762-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5799.16,
+    "dataHora": "2025-07-28T03:54:00",
+    "origem": "458179-8",
+    "destino": "418511-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8570.4,
+    "dataHora": "2025-07-02T16:45:00",
+    "origem": "816198-0",
+    "destino": "179573-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6714.08,
+    "dataHora": "2025-07-21T19:04:00",
+    "origem": "612948-8",
+    "destino": "269806-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5353.1,
+    "dataHora": "2025-07-19T09:22:00",
+    "origem": "298490-8",
+    "destino": "642371-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9670.86,
+    "dataHora": "2025-07-13T18:49:00",
+    "origem": "915176-1",
+    "destino": "567836-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1443.86,
+    "dataHora": "2025-07-03T14:23:00",
+    "origem": "949451-3",
+    "destino": "654807-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6158.21,
+    "dataHora": "2025-07-13T08:55:00",
+    "origem": "191899-1",
+    "destino": "870902-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7450.59,
+    "dataHora": "2025-07-19T13:36:00",
+    "origem": "327718-2",
+    "destino": "185131-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9602.62,
+    "dataHora": "2025-07-04T14:27:00",
+    "origem": "908130-2",
+    "destino": "654642-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1969.87,
+    "dataHora": "2025-07-04T16:10:00",
+    "origem": "972908-9",
+    "destino": "522598-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9343.76,
+    "dataHora": "2025-07-06T02:25:00",
+    "origem": "201800-9",
+    "destino": "144297-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7140.15,
+    "dataHora": "2025-07-02T19:13:00",
+    "origem": "125104-2",
+    "destino": "998313-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3020.68,
+    "dataHora": "2025-07-08T11:31:00",
+    "origem": "168878-4",
+    "destino": "225067-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3443.09,
+    "dataHora": "2025-07-13T05:20:00",
+    "origem": "644475-2",
+    "destino": "134865-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3778.55,
+    "dataHora": "2025-07-08T00:03:00",
+    "origem": "283959-2",
+    "destino": "902295-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 242.28,
+    "dataHora": "2025-07-06T07:13:00",
+    "origem": "428099-2",
+    "destino": "762637-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4646.06,
+    "dataHora": "2025-07-12T18:15:00",
+    "origem": "539150-6",
+    "destino": "783913-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3425.75,
+    "dataHora": "2025-07-16T09:55:00",
+    "origem": "317656-9",
+    "destino": "316024-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9435.43,
+    "dataHora": "2025-07-17T04:39:00",
+    "origem": "717693-8",
+    "destino": "241023-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4025.61,
+    "dataHora": "2025-07-28T04:19:00",
+    "origem": "364986-5",
+    "destino": "151958-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4700.95,
+    "dataHora": "2025-07-26T17:57:00",
+    "origem": "289965-5",
+    "destino": "953306-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1797.55,
+    "dataHora": "2025-07-21T13:13:00",
+    "origem": "375385-6",
+    "destino": "424947-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9940.97,
+    "dataHora": "2025-07-08T08:47:00",
+    "origem": "189251-5",
+    "destino": "969826-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9182.59,
+    "dataHora": "2025-07-04T23:58:00",
+    "origem": "304772-5",
+    "destino": "682938-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1016.02,
+    "dataHora": "2025-07-02T11:49:00",
+    "origem": "775413-9",
+    "destino": "895321-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7009.49,
+    "dataHora": "2025-07-17T13:43:00",
+    "origem": "127859-4",
+    "destino": "935990-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1175.96,
+    "dataHora": "2025-07-26T19:53:00",
+    "origem": "237204-3",
+    "destino": "716124-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2427.26,
+    "dataHora": "2025-07-18T11:26:00",
+    "origem": "732225-8",
+    "destino": "661934-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1566.79,
+    "dataHora": "2025-07-27T12:26:00",
+    "origem": "127144-0",
+    "destino": "216515-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 646.97,
+    "dataHora": "2025-07-12T18:38:00",
+    "origem": "930656-6",
+    "destino": "949878-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6156.98,
+    "dataHora": "2025-07-01T04:11:00",
+    "origem": "976552-6",
+    "destino": "789820-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1830.68,
+    "dataHora": "2025-07-23T17:25:00",
+    "origem": "199014-3",
+    "destino": "146869-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8075.97,
+    "dataHora": "2025-07-27T05:36:00",
+    "origem": "455825-4",
+    "destino": "571463-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2309.0,
+    "dataHora": "2025-07-14T04:23:00",
+    "origem": "315249-4",
+    "destino": "671295-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7047.03,
+    "dataHora": "2025-07-14T20:45:00",
+    "origem": "593521-7",
+    "destino": "258846-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7955.76,
+    "dataHora": "2025-07-02T08:08:00",
+    "origem": "660314-1",
+    "destino": "558119-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9209.88,
+    "dataHora": "2025-07-24T16:04:00",
+    "origem": "646523-3",
+    "destino": "825400-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1401.34,
+    "dataHora": "2025-07-09T14:45:00",
+    "origem": "818666-7",
+    "destino": "985715-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3575.83,
+    "dataHora": "2025-07-14T04:13:00",
+    "origem": "710853-6",
+    "destino": "360681-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7616.09,
+    "dataHora": "2025-07-17T12:42:00",
+    "origem": "592063-3",
+    "destino": "911538-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8524.58,
+    "dataHora": "2025-07-29T11:34:00",
+    "origem": "896569-1",
+    "destino": "296092-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7750.28,
+    "dataHora": "2025-07-03T13:08:00",
+    "origem": "473765-5",
+    "destino": "547820-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3251.93,
+    "dataHora": "2025-07-29T22:45:00",
+    "origem": "845143-9",
+    "destino": "489252-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4635.02,
+    "dataHora": "2025-07-21T20:48:00",
+    "origem": "517763-1",
+    "destino": "804688-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 878.64,
+    "dataHora": "2025-07-17T08:00:00",
+    "origem": "499333-5",
+    "destino": "666460-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9711.04,
+    "dataHora": "2025-07-19T00:05:00",
+    "origem": "915306-4",
+    "destino": "293187-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2236.28,
+    "dataHora": "2025-07-26T06:20:00",
+    "origem": "928271-3",
+    "destino": "919286-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2926.35,
+    "dataHora": "2025-07-24T23:06:00",
+    "origem": "529461-0",
+    "destino": "996870-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7293.47,
+    "dataHora": "2025-07-17T02:40:00",
+    "origem": "968533-5",
+    "destino": "855097-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4067.05,
+    "dataHora": "2025-07-21T13:32:00",
+    "origem": "286101-4",
+    "destino": "940826-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8767.1,
+    "dataHora": "2025-07-01T11:32:00",
+    "origem": "208987-2",
+    "destino": "908391-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2615.4,
+    "dataHora": "2025-07-28T07:53:00",
+    "origem": "613821-1",
+    "destino": "209214-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2378.23,
+    "dataHora": "2025-07-06T23:22:00",
+    "origem": "187812-4",
+    "destino": "713717-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3670.1,
+    "dataHora": "2025-07-29T22:14:00",
+    "origem": "424960-2",
+    "destino": "971672-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5335.99,
+    "dataHora": "2025-07-19T06:57:00",
+    "origem": "371901-9",
+    "destino": "983672-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 638.13,
+    "dataHora": "2025-07-28T14:31:00",
+    "origem": "598331-3",
+    "destino": "695188-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1963.26,
+    "dataHora": "2025-07-01T08:33:00",
+    "origem": "739117-1",
+    "destino": "293654-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3791.31,
+    "dataHora": "2025-07-04T14:50:00",
+    "origem": "322541-4",
+    "destino": "658365-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 373.06,
+    "dataHora": "2025-07-03T04:28:00",
+    "origem": "521074-4",
+    "destino": "684172-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9524.26,
+    "dataHora": "2025-07-26T17:03:00",
+    "origem": "427578-8",
+    "destino": "338062-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7845.06,
+    "dataHora": "2025-07-22T03:15:00",
+    "origem": "535645-4",
+    "destino": "614659-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3352.89,
+    "dataHora": "2025-07-01T13:18:00",
+    "origem": "444485-8",
+    "destino": "781743-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7868.62,
+    "dataHora": "2025-07-13T09:45:00",
+    "origem": "949768-6",
+    "destino": "974481-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6435.15,
+    "dataHora": "2025-07-02T23:36:00",
+    "origem": "979680-0",
+    "destino": "909096-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1447.97,
+    "dataHora": "2025-07-26T11:29:00",
+    "origem": "285086-7",
+    "destino": "435549-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1759.96,
+    "dataHora": "2025-07-07T23:20:00",
+    "origem": "471295-6",
+    "destino": "846061-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8183.78,
+    "dataHora": "2025-07-07T06:33:00",
+    "origem": "496029-9",
+    "destino": "665170-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4551.11,
+    "dataHora": "2025-07-29T11:55:00",
+    "origem": "836304-5",
+    "destino": "578102-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5078.97,
+    "dataHora": "2025-07-10T13:27:00",
+    "origem": "685623-4",
+    "destino": "957531-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2914.09,
+    "dataHora": "2025-07-28T21:26:00",
+    "origem": "270395-5",
+    "destino": "885107-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4851.15,
+    "dataHora": "2025-07-07T15:39:00",
+    "origem": "249110-7",
+    "destino": "806851-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3386.98,
+    "dataHora": "2025-07-21T09:49:00",
+    "origem": "824461-8",
+    "destino": "314584-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8511.43,
+    "dataHora": "2025-07-22T03:28:00",
+    "origem": "593075-4",
+    "destino": "865385-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7789.73,
+    "dataHora": "2025-07-18T08:00:00",
+    "origem": "504318-9",
+    "destino": "359653-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1689.31,
+    "dataHora": "2025-07-20T08:47:00",
+    "origem": "178730-1",
+    "destino": "103811-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8576.8,
+    "dataHora": "2025-07-20T07:12:00",
+    "origem": "540180-3",
+    "destino": "813241-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8768.58,
+    "dataHora": "2025-07-09T09:32:00",
+    "origem": "607187-6",
+    "destino": "183894-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2432.68,
+    "dataHora": "2025-07-10T22:11:00",
+    "origem": "263743-4",
+    "destino": "415560-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 122.6,
+    "dataHora": "2025-07-08T04:02:00",
+    "origem": "486422-2",
+    "destino": "123337-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2253.26,
+    "dataHora": "2025-07-01T04:12:00",
+    "origem": "745697-3",
+    "destino": "697391-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2394.3,
+    "dataHora": "2025-07-29T15:29:00",
+    "origem": "553460-5",
+    "destino": "184041-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9919.18,
+    "dataHora": "2025-07-18T20:54:00",
+    "origem": "782012-3",
+    "destino": "925745-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3974.85,
+    "dataHora": "2025-07-13T13:35:00",
+    "origem": "955487-4",
+    "destino": "724209-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1854.26,
+    "dataHora": "2025-07-15T09:06:00",
+    "origem": "362204-4",
+    "destino": "382775-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4134.56,
+    "dataHora": "2025-07-21T05:33:00",
+    "origem": "104158-5",
+    "destino": "668115-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6687.4,
+    "dataHora": "2025-07-05T22:27:00",
+    "origem": "276317-5",
+    "destino": "748379-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8106.99,
+    "dataHora": "2025-07-21T12:32:00",
+    "origem": "621449-0",
+    "destino": "295407-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1228.02,
+    "dataHora": "2025-07-18T10:25:00",
+    "origem": "149936-7",
+    "destino": "251237-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3045.61,
+    "dataHora": "2025-07-28T10:27:00",
+    "origem": "130717-7",
+    "destino": "517652-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3402.21,
+    "dataHora": "2025-07-18T09:55:00",
+    "origem": "176995-0",
+    "destino": "545316-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5553.54,
+    "dataHora": "2025-07-25T20:55:00",
+    "origem": "163888-1",
+    "destino": "987624-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2729.23,
+    "dataHora": "2025-07-10T07:54:00",
+    "origem": "769125-8",
+    "destino": "339669-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4426.14,
+    "dataHora": "2025-07-10T02:54:00",
+    "origem": "729002-7",
+    "destino": "562537-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5385.39,
+    "dataHora": "2025-07-21T13:24:00",
+    "origem": "182277-7",
+    "destino": "658800-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8449.24,
+    "dataHora": "2025-07-16T05:07:00",
+    "origem": "977080-7",
+    "destino": "368542-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1890.65,
+    "dataHora": "2025-07-19T02:43:00",
+    "origem": "792864-5",
+    "destino": "129736-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3880.07,
+    "dataHora": "2025-07-21T17:01:00",
+    "origem": "368234-6",
+    "destino": "475999-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6145.37,
+    "dataHora": "2025-07-09T14:50:00",
+    "origem": "405692-5",
+    "destino": "624747-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3241.68,
+    "dataHora": "2025-07-17T13:14:00",
+    "origem": "724038-4",
+    "destino": "145823-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4004.84,
+    "dataHora": "2025-07-06T22:54:00",
+    "origem": "182044-6",
+    "destino": "918096-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8854.34,
+    "dataHora": "2025-07-05T06:28:00",
+    "origem": "406419-2",
+    "destino": "621175-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9076.41,
+    "dataHora": "2025-07-09T22:19:00",
+    "origem": "954450-8",
+    "destino": "471313-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5047.18,
+    "dataHora": "2025-07-15T06:42:00",
+    "origem": "936582-7",
+    "destino": "921167-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3169.42,
+    "dataHora": "2025-07-14T20:57:00",
+    "origem": "516667-1",
+    "destino": "102456-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 899.8,
+    "dataHora": "2025-07-14T20:07:00",
+    "origem": "389264-7",
+    "destino": "244719-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6413.85,
+    "dataHora": "2025-07-22T00:02:00",
+    "origem": "214946-8",
+    "destino": "641699-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9331.87,
+    "dataHora": "2025-07-05T22:44:00",
+    "origem": "648326-5",
+    "destino": "580427-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7333.61,
+    "dataHora": "2025-07-26T02:37:00",
+    "origem": "664804-7",
+    "destino": "437610-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9247.8,
+    "dataHora": "2025-07-13T19:44:00",
+    "origem": "332090-7",
+    "destino": "534009-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8546.29,
+    "dataHora": "2025-07-12T09:32:00",
+    "origem": "398954-3",
+    "destino": "871858-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8252.35,
+    "dataHora": "2025-07-21T23:44:00",
+    "origem": "338665-6",
+    "destino": "612946-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1806.72,
+    "dataHora": "2025-07-02T13:27:00",
+    "origem": "395252-3",
+    "destino": "587913-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6063.2,
+    "dataHora": "2025-07-06T16:14:00",
+    "origem": "659895-2",
+    "destino": "238972-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4380.65,
+    "dataHora": "2025-07-11T22:20:00",
+    "origem": "987544-0",
+    "destino": "290614-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6054.6,
+    "dataHora": "2025-07-30T22:04:00",
+    "origem": "208693-3",
+    "destino": "374919-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4696.32,
+    "dataHora": "2025-07-15T17:06:00",
+    "origem": "937150-0",
+    "destino": "798826-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2403.58,
+    "dataHora": "2025-07-30T23:24:00",
+    "origem": "794704-0",
+    "destino": "770444-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 781.99,
+    "dataHora": "2025-07-04T20:36:00",
+    "origem": "356107-4",
+    "destino": "893642-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5514.37,
+    "dataHora": "2025-07-12T11:07:00",
+    "origem": "744590-3",
+    "destino": "154633-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3545.82,
+    "dataHora": "2025-07-26T21:13:00",
+    "origem": "321329-8",
+    "destino": "486359-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2255.27,
+    "dataHora": "2025-07-14T06:09:00",
+    "origem": "455300-2",
+    "destino": "172277-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9530.81,
+    "dataHora": "2025-07-26T06:41:00",
+    "origem": "294838-6",
+    "destino": "719455-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6560.36,
+    "dataHora": "2025-07-18T21:56:00",
+    "origem": "381824-5",
+    "destino": "456680-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8522.84,
+    "dataHora": "2025-07-28T07:30:00",
+    "origem": "457264-2",
+    "destino": "432835-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7224.72,
+    "dataHora": "2025-07-30T13:37:00",
+    "origem": "164102-7",
+    "destino": "810963-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2872.42,
+    "dataHora": "2025-07-12T17:42:00",
+    "origem": "462235-5",
+    "destino": "351049-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2431.39,
+    "dataHora": "2025-07-08T12:05:00",
+    "origem": "664116-5",
+    "destino": "774616-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4100.86,
+    "dataHora": "2025-07-22T01:08:00",
+    "origem": "106191-1",
+    "destino": "786927-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6726.41,
+    "dataHora": "2025-07-14T00:35:00",
+    "origem": "708674-5",
+    "destino": "896824-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1297.72,
+    "dataHora": "2025-07-20T06:44:00",
+    "origem": "592449-6",
+    "destino": "905755-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1327.76,
+    "dataHora": "2025-07-05T23:45:00",
+    "origem": "282199-1",
+    "destino": "760493-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1478.49,
+    "dataHora": "2025-07-06T13:11:00",
+    "origem": "910735-8",
+    "destino": "334476-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5845.55,
+    "dataHora": "2025-07-08T03:47:00",
+    "origem": "283006-3",
+    "destino": "270733-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1948.71,
+    "dataHora": "2025-07-06T02:53:00",
+    "origem": "920791-5",
+    "destino": "279782-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5993.91,
+    "dataHora": "2025-07-16T17:58:00",
+    "origem": "803216-4",
+    "destino": "625439-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9620.87,
+    "dataHora": "2025-07-23T22:07:00",
+    "origem": "269266-5",
+    "destino": "134048-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7881.95,
+    "dataHora": "2025-07-10T10:28:00",
+    "origem": "659506-3",
+    "destino": "127141-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9764.69,
+    "dataHora": "2025-07-19T12:49:00",
+    "origem": "861790-2",
+    "destino": "700414-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 105.6,
+    "dataHora": "2025-07-18T21:28:00",
+    "origem": "768430-2",
+    "destino": "376790-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6137.54,
+    "dataHora": "2025-07-03T20:30:00",
+    "origem": "527736-9",
+    "destino": "878589-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3948.28,
+    "dataHora": "2025-07-28T14:44:00",
+    "origem": "214640-2",
+    "destino": "294985-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6249.29,
+    "dataHora": "2025-07-05T03:20:00",
+    "origem": "520184-8",
+    "destino": "641214-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9096.14,
+    "dataHora": "2025-07-03T20:45:00",
+    "origem": "645780-7",
+    "destino": "312932-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8642.43,
+    "dataHora": "2025-07-27T13:24:00",
+    "origem": "829379-1",
+    "destino": "751357-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9622.35,
+    "dataHora": "2025-07-11T15:11:00",
+    "origem": "181402-3",
+    "destino": "957485-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4850.11,
+    "dataHora": "2025-07-21T17:01:00",
+    "origem": "331118-2",
+    "destino": "566386-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7010.59,
+    "dataHora": "2025-07-02T21:50:00",
+    "origem": "419629-4",
+    "destino": "968971-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9305.98,
+    "dataHora": "2025-07-11T10:41:00",
+    "origem": "178832-2",
+    "destino": "440615-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4022.67,
+    "dataHora": "2025-07-24T19:27:00",
+    "origem": "921359-8",
+    "destino": "643292-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4060.67,
+    "dataHora": "2025-07-09T16:22:00",
+    "origem": "858282-9",
+    "destino": "968350-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7033.06,
+    "dataHora": "2025-07-29T14:29:00",
+    "origem": "203568-4",
+    "destino": "313021-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8099.97,
+    "dataHora": "2025-07-06T10:58:00",
+    "origem": "148089-2",
+    "destino": "317989-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 664.61,
+    "dataHora": "2025-07-05T13:48:00",
+    "origem": "562429-9",
+    "destino": "178331-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1454.39,
+    "dataHora": "2025-07-06T01:10:00",
+    "origem": "399659-3",
+    "destino": "532550-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4412.61,
+    "dataHora": "2025-07-11T20:31:00",
+    "origem": "553039-6",
+    "destino": "439445-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3842.45,
+    "dataHora": "2025-07-08T05:48:00",
+    "origem": "949876-0",
+    "destino": "431458-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2532.19,
+    "dataHora": "2025-07-21T11:42:00",
+    "origem": "447048-2",
+    "destino": "530164-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7664.2,
+    "dataHora": "2025-07-05T07:15:00",
+    "origem": "496424-9",
+    "destino": "180544-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1158.39,
+    "dataHora": "2025-07-11T12:51:00",
+    "origem": "876892-0",
+    "destino": "996582-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5553.67,
+    "dataHora": "2025-07-12T22:59:00",
+    "origem": "962218-1",
+    "destino": "153835-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4790.46,
+    "dataHora": "2025-07-22T05:24:00",
+    "origem": "327970-1",
+    "destino": "949707-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7523.38,
+    "dataHora": "2025-07-18T06:58:00",
+    "origem": "201590-5",
+    "destino": "520582-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 541.73,
+    "dataHora": "2025-07-01T00:25:00",
+    "origem": "752733-4",
+    "destino": "965137-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4383.6,
+    "dataHora": "2025-07-08T12:10:00",
+    "origem": "214504-0",
+    "destino": "364995-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7458.01,
+    "dataHora": "2025-07-19T23:30:00",
+    "origem": "112451-6",
+    "destino": "499393-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2045.29,
+    "dataHora": "2025-07-10T20:56:00",
+    "origem": "156508-0",
+    "destino": "643743-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9392.13,
+    "dataHora": "2025-07-22T18:09:00",
+    "origem": "843395-9",
+    "destino": "741666-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6463.67,
+    "dataHora": "2025-07-26T00:32:00",
+    "origem": "222090-6",
+    "destino": "530614-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5885.88,
+    "dataHora": "2025-07-14T06:56:00",
+    "origem": "956655-4",
+    "destino": "462383-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6367.46,
+    "dataHora": "2025-07-24T03:56:00",
+    "origem": "246886-0",
+    "destino": "365180-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9699.26,
+    "dataHora": "2025-07-06T11:47:00",
+    "origem": "329965-5",
+    "destino": "660211-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5480.85,
+    "dataHora": "2025-07-10T15:18:00",
+    "origem": "548760-4",
+    "destino": "840214-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1873.99,
+    "dataHora": "2025-07-20T13:23:00",
+    "origem": "798268-3",
+    "destino": "530842-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8852.18,
+    "dataHora": "2025-07-04T02:49:00",
+    "origem": "863296-2",
+    "destino": "329857-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8130.55,
+    "dataHora": "2025-07-12T01:21:00",
+    "origem": "364189-7",
+    "destino": "822933-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1588.81,
+    "dataHora": "2025-07-23T12:56:00",
+    "origem": "588573-0",
+    "destino": "815390-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5989.88,
+    "dataHora": "2025-07-19T19:59:00",
+    "origem": "717795-7",
+    "destino": "124309-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5354.06,
+    "dataHora": "2025-07-24T12:52:00",
+    "origem": "449743-2",
+    "destino": "882345-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4229.09,
+    "dataHora": "2025-07-01T02:19:00",
+    "origem": "156929-5",
+    "destino": "608796-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2990.23,
+    "dataHora": "2025-07-30T04:05:00",
+    "origem": "314956-5",
+    "destino": "192762-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6003.84,
+    "dataHora": "2025-07-18T02:06:00",
+    "origem": "686100-2",
+    "destino": "600251-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1480.85,
+    "dataHora": "2025-07-05T16:10:00",
+    "origem": "809503-0",
+    "destino": "873923-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3741.88,
+    "dataHora": "2025-07-25T06:07:00",
+    "origem": "545407-1",
+    "destino": "333910-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1051.4,
+    "dataHora": "2025-07-07T07:54:00",
+    "origem": "356883-3",
+    "destino": "686648-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8702.75,
+    "dataHora": "2025-07-29T09:53:00",
+    "origem": "930657-6",
+    "destino": "757986-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6843.6,
+    "dataHora": "2025-07-03T02:56:00",
+    "origem": "525253-5",
+    "destino": "655477-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5163.65,
+    "dataHora": "2025-07-17T04:43:00",
+    "origem": "635617-5",
+    "destino": "288010-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6169.55,
+    "dataHora": "2025-07-17T05:49:00",
+    "origem": "190326-4",
+    "destino": "927054-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4464.52,
+    "dataHora": "2025-07-04T20:31:00",
+    "origem": "139745-7",
+    "destino": "962125-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9797.39,
+    "dataHora": "2025-07-22T17:37:00",
+    "origem": "253773-6",
+    "destino": "722270-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8964.77,
+    "dataHora": "2025-07-02T03:07:00",
+    "origem": "223000-8",
+    "destino": "913199-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3716.39,
+    "dataHora": "2025-07-10T14:06:00",
+    "origem": "902338-4",
+    "destino": "756884-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5725.92,
+    "dataHora": "2025-07-05T08:17:00",
+    "origem": "530669-8",
+    "destino": "382863-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4114.51,
+    "dataHora": "2025-07-17T14:27:00",
+    "origem": "593778-7",
+    "destino": "920168-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9233.41,
+    "dataHora": "2025-07-20T12:45:00",
+    "origem": "274844-9",
+    "destino": "222961-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6261.17,
+    "dataHora": "2025-07-13T10:24:00",
+    "origem": "655220-5",
+    "destino": "702113-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2734.91,
+    "dataHora": "2025-07-28T16:45:00",
+    "origem": "669845-5",
+    "destino": "233245-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6482.07,
+    "dataHora": "2025-07-01T12:03:00",
+    "origem": "720489-6",
+    "destino": "467320-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6163.09,
+    "dataHora": "2025-07-24T23:49:00",
+    "origem": "992520-3",
+    "destino": "154703-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8895.15,
+    "dataHora": "2025-07-20T00:36:00",
+    "origem": "639742-8",
+    "destino": "397742-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 400.16,
+    "dataHora": "2025-07-27T14:17:00",
+    "origem": "530478-1",
+    "destino": "734552-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1428.03,
+    "dataHora": "2025-07-06T08:45:00",
+    "origem": "238551-4",
+    "destino": "231583-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3509.38,
+    "dataHora": "2025-07-25T20:27:00",
+    "origem": "771677-6",
+    "destino": "563288-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9844.0,
+    "dataHora": "2025-07-13T04:24:00",
+    "origem": "753378-8",
+    "destino": "352396-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2455.76,
+    "dataHora": "2025-07-30T14:40:00",
+    "origem": "773731-5",
+    "destino": "470310-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 514.74,
+    "dataHora": "2025-07-26T23:04:00",
+    "origem": "818154-8",
+    "destino": "300740-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2186.26,
+    "dataHora": "2025-07-11T10:59:00",
+    "origem": "953161-6",
+    "destino": "486610-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3092.1,
+    "dataHora": "2025-07-16T07:39:00",
+    "origem": "622148-3",
+    "destino": "746320-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 702.69,
+    "dataHora": "2025-07-12T23:58:00",
+    "origem": "160298-8",
+    "destino": "503297-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7745.54,
+    "dataHora": "2025-07-09T06:39:00",
+    "origem": "680922-5",
+    "destino": "853546-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9424.4,
+    "dataHora": "2025-07-08T07:53:00",
+    "origem": "658092-0",
+    "destino": "859138-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3992.76,
+    "dataHora": "2025-07-11T15:45:00",
+    "origem": "101924-9",
+    "destino": "469864-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4289.27,
+    "dataHora": "2025-07-25T00:34:00",
+    "origem": "198017-8",
+    "destino": "438323-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 855.62,
+    "dataHora": "2025-07-29T09:02:00",
+    "origem": "938747-3",
+    "destino": "823490-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2258.71,
+    "dataHora": "2025-07-08T10:56:00",
+    "origem": "508966-6",
+    "destino": "266798-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 937.71,
+    "dataHora": "2025-07-13T21:17:00",
+    "origem": "388180-5",
+    "destino": "413767-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6151.01,
+    "dataHora": "2025-07-12T06:57:00",
+    "origem": "198520-2",
+    "destino": "164814-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1007.98,
+    "dataHora": "2025-07-05T00:39:00",
+    "origem": "302522-9",
+    "destino": "226099-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6327.12,
+    "dataHora": "2025-07-13T18:04:00",
+    "origem": "639707-0",
+    "destino": "711714-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 740.49,
+    "dataHora": "2025-07-03T22:17:00",
+    "origem": "222056-2",
+    "destino": "139331-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1952.33,
+    "dataHora": "2025-07-18T15:25:00",
+    "origem": "519041-3",
+    "destino": "194503-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1030.78,
+    "dataHora": "2025-07-25T06:17:00",
+    "origem": "846854-8",
+    "destino": "764027-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5003.67,
+    "dataHora": "2025-07-07T05:05:00",
+    "origem": "802376-0",
+    "destino": "832000-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1986.63,
+    "dataHora": "2025-07-05T05:54:00",
+    "origem": "420469-6",
+    "destino": "771483-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 362.79,
+    "dataHora": "2025-07-03T14:57:00",
+    "origem": "361204-2",
+    "destino": "642228-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4959.83,
+    "dataHora": "2025-07-15T20:02:00",
+    "origem": "437046-4",
+    "destino": "438762-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7608.98,
+    "dataHora": "2025-07-24T20:32:00",
+    "origem": "404650-3",
+    "destino": "761529-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6660.35,
+    "dataHora": "2025-07-29T14:54:00",
+    "origem": "554923-7",
+    "destino": "365477-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7002.29,
+    "dataHora": "2025-07-20T02:52:00",
+    "origem": "186639-1",
+    "destino": "109109-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7529.28,
+    "dataHora": "2025-07-07T23:06:00",
+    "origem": "636022-4",
+    "destino": "992760-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6631.83,
+    "dataHora": "2025-07-29T02:29:00",
+    "origem": "504294-3",
+    "destino": "589384-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7967.25,
+    "dataHora": "2025-07-20T02:45:00",
+    "origem": "782907-5",
+    "destino": "828664-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 650.15,
+    "dataHora": "2025-07-01T13:37:00",
+    "origem": "679307-6",
+    "destino": "222534-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9145.55,
+    "dataHora": "2025-07-15T22:31:00",
+    "origem": "889489-6",
+    "destino": "153429-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3390.89,
+    "dataHora": "2025-07-20T13:47:00",
+    "origem": "485240-7",
+    "destino": "229982-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7307.17,
+    "dataHora": "2025-07-22T14:00:00",
+    "origem": "924449-3",
+    "destino": "816435-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1222.94,
+    "dataHora": "2025-07-28T10:11:00",
+    "origem": "981052-6",
+    "destino": "626994-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7474.24,
+    "dataHora": "2025-07-06T17:13:00",
+    "origem": "814184-2",
+    "destino": "648292-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 16.12,
+    "dataHora": "2025-07-19T08:00:00",
+    "origem": "775911-7",
+    "destino": "525748-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7045.7,
+    "dataHora": "2025-07-28T15:42:00",
+    "origem": "677784-7",
+    "destino": "738289-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8750.01,
+    "dataHora": "2025-07-16T06:27:00",
+    "origem": "991507-9",
+    "destino": "194691-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2529.35,
+    "dataHora": "2025-07-19T11:09:00",
+    "origem": "208210-0",
+    "destino": "932452-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3500.5,
+    "dataHora": "2025-07-07T15:33:00",
+    "origem": "877697-7",
+    "destino": "587750-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1250.69,
+    "dataHora": "2025-07-30T11:36:00",
+    "origem": "225983-1",
+    "destino": "582412-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3062.22,
+    "dataHora": "2025-07-02T20:47:00",
+    "origem": "306436-3",
+    "destino": "218290-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9390.44,
+    "dataHora": "2025-07-04T03:45:00",
+    "origem": "606213-4",
+    "destino": "788859-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 930.23,
+    "dataHora": "2025-07-28T21:20:00",
+    "origem": "591000-9",
+    "destino": "629487-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7609.74,
+    "dataHora": "2025-07-20T10:58:00",
+    "origem": "744963-2",
+    "destino": "336009-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9445.38,
+    "dataHora": "2025-07-20T16:20:00",
+    "origem": "352918-8",
+    "destino": "906837-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6459.75,
+    "dataHora": "2025-07-12T09:46:00",
+    "origem": "995034-7",
+    "destino": "642847-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3564.0,
+    "dataHora": "2025-07-08T18:47:00",
+    "origem": "510663-3",
+    "destino": "628545-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1096.65,
+    "dataHora": "2025-07-09T18:37:00",
+    "origem": "135547-6",
+    "destino": "740927-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6315.79,
+    "dataHora": "2025-07-08T19:22:00",
+    "origem": "927214-0",
+    "destino": "377349-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1034.38,
+    "dataHora": "2025-07-07T14:55:00",
+    "origem": "535162-0",
+    "destino": "746475-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2036.87,
+    "dataHora": "2025-07-16T13:21:00",
+    "origem": "369872-7",
+    "destino": "167771-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8021.93,
+    "dataHora": "2025-07-17T12:02:00",
+    "origem": "381343-6",
+    "destino": "585083-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2658.19,
+    "dataHora": "2025-07-20T00:29:00",
+    "origem": "987567-2",
+    "destino": "229978-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5429.99,
+    "dataHora": "2025-07-01T17:40:00",
+    "origem": "436407-4",
+    "destino": "495083-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9645.29,
+    "dataHora": "2025-07-27T03:37:00",
+    "origem": "112167-8",
+    "destino": "146209-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8538.6,
+    "dataHora": "2025-07-13T07:02:00",
+    "origem": "410816-1",
+    "destino": "627744-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 880.8,
+    "dataHora": "2025-07-04T06:02:00",
+    "origem": "634090-9",
+    "destino": "609390-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6285.46,
+    "dataHora": "2025-07-14T10:31:00",
+    "origem": "406099-3",
+    "destino": "116368-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3612.08,
+    "dataHora": "2025-07-07T15:17:00",
+    "origem": "336456-5",
+    "destino": "257158-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6247.08,
+    "dataHora": "2025-07-05T03:08:00",
+    "origem": "204785-2",
+    "destino": "167177-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6193.01,
+    "dataHora": "2025-07-11T12:50:00",
+    "origem": "656146-6",
+    "destino": "504349-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5543.94,
+    "dataHora": "2025-07-10T18:13:00",
+    "origem": "526508-1",
+    "destino": "198121-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4435.22,
+    "dataHora": "2025-07-28T04:02:00",
+    "origem": "505677-9",
+    "destino": "182497-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1594.12,
+    "dataHora": "2025-07-30T12:09:00",
+    "origem": "328352-3",
+    "destino": "838686-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 240.42,
+    "dataHora": "2025-07-07T16:42:00",
+    "origem": "859124-2",
+    "destino": "195396-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2171.35,
+    "dataHora": "2025-07-18T14:44:00",
+    "origem": "451397-3",
+    "destino": "936492-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9573.99,
+    "dataHora": "2025-07-04T22:15:00",
+    "origem": "254644-0",
+    "destino": "634294-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8950.19,
+    "dataHora": "2025-07-17T17:47:00",
+    "origem": "581811-2",
+    "destino": "659502-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3358.73,
+    "dataHora": "2025-07-02T09:11:00",
+    "origem": "721185-9",
+    "destino": "533872-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1914.83,
+    "dataHora": "2025-07-07T05:19:00",
+    "origem": "311000-8",
+    "destino": "429659-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3435.39,
+    "dataHora": "2025-07-23T11:04:00",
+    "origem": "547228-1",
+    "destino": "117649-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4798.59,
+    "dataHora": "2025-07-29T13:10:00",
+    "origem": "405276-8",
+    "destino": "363873-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5465.83,
+    "dataHora": "2025-07-01T01:40:00",
+    "origem": "144509-8",
+    "destino": "907624-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6778.94,
+    "dataHora": "2025-07-12T03:22:00",
+    "origem": "227282-2",
+    "destino": "145399-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7594.53,
+    "dataHora": "2025-07-10T22:42:00",
+    "origem": "171112-6",
+    "destino": "941419-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8676.59,
+    "dataHora": "2025-07-12T01:49:00",
+    "origem": "358397-3",
+    "destino": "410184-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8770.76,
+    "dataHora": "2025-07-20T17:38:00",
+    "origem": "548416-2",
+    "destino": "394308-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 990.5,
+    "dataHora": "2025-07-08T11:14:00",
+    "origem": "881211-1",
+    "destino": "581295-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2319.1,
+    "dataHora": "2025-07-13T17:24:00",
+    "origem": "478839-3",
+    "destino": "500216-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9736.82,
+    "dataHora": "2025-07-15T09:29:00",
+    "origem": "920205-4",
+    "destino": "169894-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1625.08,
+    "dataHora": "2025-07-09T06:26:00",
+    "origem": "445489-6",
+    "destino": "141652-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6847.94,
+    "dataHora": "2025-07-10T02:17:00",
+    "origem": "945261-4",
+    "destino": "342126-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 979.28,
+    "dataHora": "2025-07-25T02:28:00",
+    "origem": "989862-8",
+    "destino": "630386-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5500.47,
+    "dataHora": "2025-07-26T13:10:00",
+    "origem": "783103-9",
+    "destino": "710816-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1377.49,
+    "dataHora": "2025-07-13T16:29:00",
+    "origem": "593880-7",
+    "destino": "330208-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6642.63,
+    "dataHora": "2025-07-18T20:29:00",
+    "origem": "206052-2",
+    "destino": "507725-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 560.32,
+    "dataHora": "2025-07-14T17:19:00",
+    "origem": "433534-9",
+    "destino": "402622-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5160.68,
+    "dataHora": "2025-07-14T02:57:00",
+    "origem": "693475-7",
+    "destino": "271184-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2443.52,
+    "dataHora": "2025-07-01T01:57:00",
+    "origem": "730502-1",
+    "destino": "624805-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6848.18,
+    "dataHora": "2025-07-27T11:43:00",
+    "origem": "269526-4",
+    "destino": "919575-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1233.29,
+    "dataHora": "2025-07-09T13:01:00",
+    "origem": "659086-9",
+    "destino": "957753-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6731.02,
+    "dataHora": "2025-07-20T03:08:00",
+    "origem": "139825-5",
+    "destino": "600299-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5094.07,
+    "dataHora": "2025-07-22T22:54:00",
+    "origem": "740682-1",
+    "destino": "298183-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2955.51,
+    "dataHora": "2025-07-17T11:40:00",
+    "origem": "435581-7",
+    "destino": "576580-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6557.49,
+    "dataHora": "2025-07-27T18:52:00",
+    "origem": "667935-6",
+    "destino": "172506-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5582.37,
+    "dataHora": "2025-07-12T01:48:00",
+    "origem": "320910-2",
+    "destino": "135087-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6275.18,
+    "dataHora": "2025-07-05T21:56:00",
+    "origem": "910499-7",
+    "destino": "766155-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8816.6,
+    "dataHora": "2025-07-11T08:25:00",
+    "origem": "278807-0",
+    "destino": "792641-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1632.71,
+    "dataHora": "2025-07-26T05:21:00",
+    "origem": "670641-7",
+    "destino": "515056-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1843.47,
+    "dataHora": "2025-07-16T21:01:00",
+    "origem": "766769-5",
+    "destino": "446965-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2191.66,
+    "dataHora": "2025-07-16T15:05:00",
+    "origem": "867895-7",
+    "destino": "469314-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 59.63,
+    "dataHora": "2025-07-30T16:21:00",
+    "origem": "753345-5",
+    "destino": "914375-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7748.26,
+    "dataHora": "2025-07-03T23:45:00",
+    "origem": "172544-6",
+    "destino": "289294-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4843.49,
+    "dataHora": "2025-07-01T04:50:00",
+    "origem": "182859-0",
+    "destino": "276106-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1790.87,
+    "dataHora": "2025-07-17T11:28:00",
+    "origem": "107977-7",
+    "destino": "753299-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3415.84,
+    "dataHora": "2025-07-25T18:29:00",
+    "origem": "274335-7",
+    "destino": "989011-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7902.65,
+    "dataHora": "2025-07-04T12:35:00",
+    "origem": "163977-4",
+    "destino": "478879-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 489.89,
+    "dataHora": "2025-07-23T02:37:00",
+    "origem": "421344-5",
+    "destino": "247909-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3237.17,
+    "dataHora": "2025-07-07T22:48:00",
+    "origem": "702100-0",
+    "destino": "770248-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 464.15,
+    "dataHora": "2025-07-23T18:58:00",
+    "origem": "476321-3",
+    "destino": "415317-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 701.84,
+    "dataHora": "2025-07-17T16:08:00",
+    "origem": "455791-6",
+    "destino": "312132-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 138.59,
+    "dataHora": "2025-07-06T04:40:00",
+    "origem": "684183-1",
+    "destino": "753152-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8026.91,
+    "dataHora": "2025-07-18T18:44:00",
+    "origem": "150743-6",
+    "destino": "628131-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8030.31,
+    "dataHora": "2025-07-28T10:54:00",
+    "origem": "186437-7",
+    "destino": "346496-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3627.44,
+    "dataHora": "2025-07-11T07:08:00",
+    "origem": "697309-5",
+    "destino": "205146-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3151.46,
+    "dataHora": "2025-07-12T05:05:00",
+    "origem": "636181-5",
+    "destino": "177504-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9646.27,
+    "dataHora": "2025-07-18T05:32:00",
+    "origem": "995625-6",
+    "destino": "648523-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5564.79,
+    "dataHora": "2025-07-02T21:30:00",
+    "origem": "155352-0",
+    "destino": "434881-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2636.55,
+    "dataHora": "2025-07-18T14:00:00",
+    "origem": "525444-5",
+    "destino": "940555-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2660.15,
+    "dataHora": "2025-07-26T18:12:00",
+    "origem": "677579-1",
+    "destino": "869694-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7940.53,
+    "dataHora": "2025-07-15T20:00:00",
+    "origem": "814153-1",
+    "destino": "870294-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8224.54,
+    "dataHora": "2025-07-03T01:40:00",
+    "origem": "257706-6",
+    "destino": "654205-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9909.92,
+    "dataHora": "2025-07-19T08:40:00",
+    "origem": "660400-8",
+    "destino": "671043-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4008.18,
+    "dataHora": "2025-07-12T09:16:00",
+    "origem": "347666-8",
+    "destino": "545125-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2591.89,
+    "dataHora": "2025-07-28T15:59:00",
+    "origem": "146001-4",
+    "destino": "669506-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 240.25,
+    "dataHora": "2025-07-28T05:25:00",
+    "origem": "395897-1",
+    "destino": "370971-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 258.58,
+    "dataHora": "2025-07-18T19:30:00",
+    "origem": "882464-9",
+    "destino": "456673-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2806.3,
+    "dataHora": "2025-07-13T04:51:00",
+    "origem": "652562-0",
+    "destino": "920929-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9274.94,
+    "dataHora": "2025-07-14T22:45:00",
+    "origem": "783870-1",
+    "destino": "959964-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4281.22,
+    "dataHora": "2025-07-04T09:55:00",
+    "origem": "606159-0",
+    "destino": "465959-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5911.86,
+    "dataHora": "2025-07-24T03:28:00",
+    "origem": "930616-8",
+    "destino": "825883-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4475.14,
+    "dataHora": "2025-07-24T14:15:00",
+    "origem": "861591-3",
+    "destino": "235178-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2166.13,
+    "dataHora": "2025-07-14T18:03:00",
+    "origem": "587237-3",
+    "destino": "475841-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7036.38,
+    "dataHora": "2025-07-02T11:20:00",
+    "origem": "711110-2",
+    "destino": "895299-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5540.77,
+    "dataHora": "2025-07-08T23:36:00",
+    "origem": "706738-4",
+    "destino": "430949-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4574.06,
+    "dataHora": "2025-07-06T12:14:00",
+    "origem": "158789-9",
+    "destino": "257602-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4928.24,
+    "dataHora": "2025-07-22T00:29:00",
+    "origem": "214990-3",
+    "destino": "362118-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3021.91,
+    "dataHora": "2025-07-02T07:28:00",
+    "origem": "384151-0",
+    "destino": "429464-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1663.15,
+    "dataHora": "2025-07-02T16:53:00",
+    "origem": "217631-7",
+    "destino": "577219-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7952.28,
+    "dataHora": "2025-07-06T17:18:00",
+    "origem": "108407-5",
+    "destino": "964668-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 919.01,
+    "dataHora": "2025-07-19T21:15:00",
+    "origem": "704939-9",
+    "destino": "603165-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3034.69,
+    "dataHora": "2025-07-03T16:02:00",
+    "origem": "691157-3",
+    "destino": "259813-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6313.82,
+    "dataHora": "2025-07-01T01:23:00",
+    "origem": "640506-0",
+    "destino": "703125-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 276.91,
+    "dataHora": "2025-07-26T10:48:00",
+    "origem": "621697-8",
+    "destino": "548540-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7230.85,
+    "dataHora": "2025-07-08T22:07:00",
+    "origem": "298894-1",
+    "destino": "746252-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1866.48,
+    "dataHora": "2025-07-19T17:18:00",
+    "origem": "215660-6",
+    "destino": "534042-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6935.72,
+    "dataHora": "2025-07-24T22:16:00",
+    "origem": "393191-0",
+    "destino": "950838-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8615.74,
+    "dataHora": "2025-07-25T12:54:00",
+    "origem": "532588-2",
+    "destino": "690405-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3392.15,
+    "dataHora": "2025-07-07T20:02:00",
+    "origem": "527172-9",
+    "destino": "922260-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2856.4,
+    "dataHora": "2025-07-12T09:51:00",
+    "origem": "235862-2",
+    "destino": "481431-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8043.74,
+    "dataHora": "2025-07-30T15:49:00",
+    "origem": "711571-8",
+    "destino": "328137-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 20.06,
+    "dataHora": "2025-07-08T13:16:00",
+    "origem": "570667-3",
+    "destino": "261783-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5769.82,
+    "dataHora": "2025-07-08T18:03:00",
+    "origem": "990331-5",
+    "destino": "760234-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5178.74,
+    "dataHora": "2025-07-08T12:13:00",
+    "origem": "774322-2",
+    "destino": "934024-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1458.61,
+    "dataHora": "2025-07-08T00:31:00",
+    "origem": "690940-1",
+    "destino": "418619-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1323.88,
+    "dataHora": "2025-07-21T21:45:00",
+    "origem": "208222-2",
+    "destino": "777490-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3841.24,
+    "dataHora": "2025-07-18T20:59:00",
+    "origem": "560048-2",
+    "destino": "182194-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 21.94,
+    "dataHora": "2025-07-03T14:19:00",
+    "origem": "263832-6",
+    "destino": "487479-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7564.3,
+    "dataHora": "2025-07-17T02:24:00",
+    "origem": "619587-7",
+    "destino": "241846-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1225.05,
+    "dataHora": "2025-07-12T05:36:00",
+    "origem": "269209-3",
+    "destino": "471930-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3803.56,
+    "dataHora": "2025-07-27T01:31:00",
+    "origem": "957860-8",
+    "destino": "943923-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5896.55,
+    "dataHora": "2025-07-05T07:08:00",
+    "origem": "557869-3",
+    "destino": "607951-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8580.55,
+    "dataHora": "2025-07-20T12:29:00",
+    "origem": "703140-8",
+    "destino": "681898-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6473.5,
+    "dataHora": "2025-07-09T01:39:00",
+    "origem": "341878-8",
+    "destino": "392941-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1585.33,
+    "dataHora": "2025-07-10T20:20:00",
+    "origem": "793703-6",
+    "destino": "332412-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6723.47,
+    "dataHora": "2025-07-29T16:58:00",
+    "origem": "843932-5",
+    "destino": "674126-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1727.03,
+    "dataHora": "2025-07-08T09:05:00",
+    "origem": "719137-3",
+    "destino": "542048-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 504.13,
+    "dataHora": "2025-07-25T21:20:00",
+    "origem": "983489-9",
+    "destino": "957520-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1203.79,
+    "dataHora": "2025-07-14T23:43:00",
+    "origem": "715882-8",
+    "destino": "714557-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 287.13,
+    "dataHora": "2025-07-08T18:19:00",
+    "origem": "681887-3",
+    "destino": "677905-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1945.12,
+    "dataHora": "2025-07-12T14:16:00",
+    "origem": "607157-0",
+    "destino": "811066-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3498.02,
+    "dataHora": "2025-07-05T03:36:00",
+    "origem": "466106-2",
+    "destino": "582554-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5123.02,
+    "dataHora": "2025-07-03T21:05:00",
+    "origem": "459124-4",
+    "destino": "516728-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2789.0,
+    "dataHora": "2025-07-13T19:54:00",
+    "origem": "894728-9",
+    "destino": "162145-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9969.97,
+    "dataHora": "2025-07-16T03:32:00",
+    "origem": "781557-4",
+    "destino": "646571-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6692.92,
+    "dataHora": "2025-07-21T14:56:00",
+    "origem": "744736-0",
+    "destino": "281438-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6816.06,
+    "dataHora": "2025-07-09T04:09:00",
+    "origem": "541438-4",
+    "destino": "461656-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1504.39,
+    "dataHora": "2025-07-03T20:20:00",
+    "origem": "238206-5",
+    "destino": "683273-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7982.36,
+    "dataHora": "2025-07-13T13:38:00",
+    "origem": "820313-6",
+    "destino": "459563-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9715.06,
+    "dataHora": "2025-07-12T06:10:00",
+    "origem": "784382-5",
+    "destino": "969223-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6844.23,
+    "dataHora": "2025-07-25T19:52:00",
+    "origem": "682300-0",
+    "destino": "133608-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7583.64,
+    "dataHora": "2025-07-09T02:54:00",
+    "origem": "476581-2",
+    "destino": "884235-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6267.98,
+    "dataHora": "2025-07-07T03:09:00",
+    "origem": "136340-4",
+    "destino": "128209-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 537.87,
+    "dataHora": "2025-07-22T21:05:00",
+    "origem": "982142-4",
+    "destino": "899505-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9962.16,
+    "dataHora": "2025-07-11T02:21:00",
+    "origem": "526859-4",
+    "destino": "454021-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2012.87,
+    "dataHora": "2025-07-02T20:31:00",
+    "origem": "113690-8",
+    "destino": "517549-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5400.99,
+    "dataHora": "2025-07-24T07:14:00",
+    "origem": "433205-8",
+    "destino": "930811-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 821.81,
+    "dataHora": "2025-07-26T06:59:00",
+    "origem": "443786-1",
+    "destino": "523556-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9588.3,
+    "dataHora": "2025-07-10T08:29:00",
+    "origem": "757465-5",
+    "destino": "433337-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9147.21,
+    "dataHora": "2025-07-01T12:27:00",
+    "origem": "415499-8",
+    "destino": "657471-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4003.73,
+    "dataHora": "2025-07-01T19:59:00",
+    "origem": "117956-4",
+    "destino": "361108-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5115.95,
+    "dataHora": "2025-07-11T19:39:00",
+    "origem": "580147-7",
+    "destino": "883252-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5540.25,
+    "dataHora": "2025-07-06T16:48:00",
+    "origem": "192182-4",
+    "destino": "583188-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7022.13,
+    "dataHora": "2025-07-26T07:43:00",
+    "origem": "303236-3",
+    "destino": "794795-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4297.25,
+    "dataHora": "2025-07-01T00:08:00",
+    "origem": "907133-5",
+    "destino": "594436-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8841.87,
+    "dataHora": "2025-07-15T03:32:00",
+    "origem": "711917-9",
+    "destino": "135701-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7324.55,
+    "dataHora": "2025-07-24T04:57:00",
+    "origem": "306920-2",
+    "destino": "789910-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1440.88,
+    "dataHora": "2025-07-30T12:44:00",
+    "origem": "249375-8",
+    "destino": "726652-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7273.54,
+    "dataHora": "2025-07-20T01:05:00",
+    "origem": "215701-0",
+    "destino": "986071-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5011.96,
+    "dataHora": "2025-07-18T09:26:00",
+    "origem": "220473-8",
+    "destino": "677816-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5802.8,
+    "dataHora": "2025-07-11T16:57:00",
+    "origem": "841958-2",
+    "destino": "556136-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2819.02,
+    "dataHora": "2025-07-02T19:14:00",
+    "origem": "884951-7",
+    "destino": "154390-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2282.92,
+    "dataHora": "2025-07-01T07:54:00",
+    "origem": "665789-6",
+    "destino": "996634-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7795.39,
+    "dataHora": "2025-07-01T20:34:00",
+    "origem": "562302-9",
+    "destino": "618317-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 93.15,
+    "dataHora": "2025-07-17T06:37:00",
+    "origem": "509455-8",
+    "destino": "183753-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5790.69,
+    "dataHora": "2025-07-06T15:59:00",
+    "origem": "524852-1",
+    "destino": "802557-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6911.43,
+    "dataHora": "2025-07-06T03:46:00",
+    "origem": "254259-9",
+    "destino": "705387-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6628.26,
+    "dataHora": "2025-07-01T20:01:00",
+    "origem": "996090-4",
+    "destino": "739514-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3085.22,
+    "dataHora": "2025-07-24T05:56:00",
+    "origem": "111622-6",
+    "destino": "190191-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9532.55,
+    "dataHora": "2025-07-16T14:54:00",
+    "origem": "192902-7",
+    "destino": "246014-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2739.77,
+    "dataHora": "2025-07-23T09:46:00",
+    "origem": "273938-1",
+    "destino": "834627-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8205.58,
+    "dataHora": "2025-07-14T13:18:00",
+    "origem": "782304-5",
+    "destino": "824744-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8466.87,
+    "dataHora": "2025-07-15T17:24:00",
+    "origem": "308650-1",
+    "destino": "220611-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 412.39,
+    "dataHora": "2025-07-23T02:16:00",
+    "origem": "972684-3",
+    "destino": "527019-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9308.02,
+    "dataHora": "2025-07-28T22:33:00",
+    "origem": "179954-3",
+    "destino": "677977-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8454.62,
+    "dataHora": "2025-07-28T16:03:00",
+    "origem": "630580-4",
+    "destino": "990184-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5027.23,
+    "dataHora": "2025-07-08T02:31:00",
+    "origem": "813104-1",
+    "destino": "497742-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8004.84,
+    "dataHora": "2025-07-25T15:15:00",
+    "origem": "173501-2",
+    "destino": "192912-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7437.45,
+    "dataHora": "2025-07-16T09:48:00",
+    "origem": "815683-1",
+    "destino": "228994-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1719.36,
+    "dataHora": "2025-07-27T09:05:00",
+    "origem": "170336-2",
+    "destino": "622578-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5388.13,
+    "dataHora": "2025-07-14T22:59:00",
+    "origem": "692880-8",
+    "destino": "308186-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7985.56,
+    "dataHora": "2025-07-28T14:59:00",
+    "origem": "624567-4",
+    "destino": "941855-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1193.89,
+    "dataHora": "2025-07-04T16:30:00",
+    "origem": "456566-0",
+    "destino": "551158-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4907.66,
+    "dataHora": "2025-07-14T22:46:00",
+    "origem": "705804-8",
+    "destino": "730073-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 412.06,
+    "dataHora": "2025-07-16T18:55:00",
+    "origem": "110656-4",
+    "destino": "149174-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9622.66,
+    "dataHora": "2025-07-18T01:27:00",
+    "origem": "706527-4",
+    "destino": "363967-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2874.31,
+    "dataHora": "2025-07-28T21:24:00",
+    "origem": "413642-5",
+    "destino": "266678-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6006.97,
+    "dataHora": "2025-07-20T04:02:00",
+    "origem": "319732-5",
+    "destino": "625232-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7577.73,
+    "dataHora": "2025-07-10T08:12:00",
+    "origem": "321063-2",
+    "destino": "341225-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8640.18,
+    "dataHora": "2025-07-15T04:39:00",
+    "origem": "976687-3",
+    "destino": "510484-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2328.88,
+    "dataHora": "2025-07-11T12:16:00",
+    "origem": "556713-7",
+    "destino": "130281-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2810.59,
+    "dataHora": "2025-07-11T08:12:00",
+    "origem": "972881-4",
+    "destino": "990883-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1659.72,
+    "dataHora": "2025-07-25T23:13:00",
+    "origem": "993560-3",
+    "destino": "353596-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8334.19,
+    "dataHora": "2025-07-30T05:19:00",
+    "origem": "205139-6",
+    "destino": "643819-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 630.12,
+    "dataHora": "2025-07-13T18:12:00",
+    "origem": "548134-4",
+    "destino": "596649-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 539.31,
+    "dataHora": "2025-07-30T11:45:00",
+    "origem": "169697-9",
+    "destino": "459058-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5657.41,
+    "dataHora": "2025-07-29T16:51:00",
+    "origem": "709799-9",
+    "destino": "473476-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 147.49,
+    "dataHora": "2025-07-03T20:40:00",
+    "origem": "802855-8",
+    "destino": "467288-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3768.32,
+    "dataHora": "2025-07-11T20:04:00",
+    "origem": "451728-4",
+    "destino": "656782-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8128.36,
+    "dataHora": "2025-07-07T02:06:00",
+    "origem": "640481-7",
+    "destino": "814611-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6774.5,
+    "dataHora": "2025-07-24T10:42:00",
+    "origem": "943481-2",
+    "destino": "275826-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8020.89,
+    "dataHora": "2025-07-19T04:57:00",
+    "origem": "605025-8",
+    "destino": "947124-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9420.35,
+    "dataHora": "2025-07-05T13:17:00",
+    "origem": "119866-1",
+    "destino": "821798-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3598.04,
+    "dataHora": "2025-07-18T14:29:00",
+    "origem": "298097-0",
+    "destino": "678554-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2881.52,
+    "dataHora": "2025-07-07T12:53:00",
+    "origem": "216929-6",
+    "destino": "432614-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4674.51,
+    "dataHora": "2025-07-19T00:23:00",
+    "origem": "132457-3",
+    "destino": "908303-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4574.21,
+    "dataHora": "2025-07-27T11:30:00",
+    "origem": "824748-2",
+    "destino": "872479-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2366.37,
+    "dataHora": "2025-07-02T10:26:00",
+    "origem": "308686-2",
+    "destino": "881742-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2075.79,
+    "dataHora": "2025-07-23T22:10:00",
+    "origem": "687396-2",
+    "destino": "731515-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1973.6,
+    "dataHora": "2025-07-27T20:45:00",
+    "origem": "939502-5",
+    "destino": "147691-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1512.89,
+    "dataHora": "2025-07-27T21:29:00",
+    "origem": "764617-4",
+    "destino": "932357-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6316.4,
+    "dataHora": "2025-07-28T01:25:00",
+    "origem": "398047-0",
+    "destino": "120817-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3770.07,
+    "dataHora": "2025-07-26T07:51:00",
+    "origem": "203998-2",
+    "destino": "303855-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9789.51,
+    "dataHora": "2025-07-12T18:00:00",
+    "origem": "126680-5",
+    "destino": "288047-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2129.03,
+    "dataHora": "2025-07-07T15:49:00",
+    "origem": "740755-5",
+    "destino": "725545-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7208.07,
+    "dataHora": "2025-07-15T20:14:00",
+    "origem": "466702-6",
+    "destino": "225809-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5377.47,
+    "dataHora": "2025-07-23T08:19:00",
+    "origem": "315725-8",
+    "destino": "115764-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3951.7,
+    "dataHora": "2025-07-02T00:22:00",
+    "origem": "835703-7",
+    "destino": "803378-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8828.02,
+    "dataHora": "2025-07-19T01:34:00",
+    "origem": "729287-7",
+    "destino": "555907-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2512.43,
+    "dataHora": "2025-07-23T00:53:00",
+    "origem": "530427-9",
+    "destino": "826257-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5039.32,
+    "dataHora": "2025-07-17T21:07:00",
+    "origem": "146580-7",
+    "destino": "779978-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3507.17,
+    "dataHora": "2025-07-10T13:37:00",
+    "origem": "191115-3",
+    "destino": "648965-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1128.04,
+    "dataHora": "2025-07-25T09:01:00",
+    "origem": "730811-1",
+    "destino": "680925-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3907.1,
+    "dataHora": "2025-07-24T20:53:00",
+    "origem": "119209-2",
+    "destino": "954777-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9855.32,
+    "dataHora": "2025-07-28T21:11:00",
+    "origem": "895844-3",
+    "destino": "802693-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3129.4,
+    "dataHora": "2025-07-07T07:34:00",
+    "origem": "974688-6",
+    "destino": "580406-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5735.3,
+    "dataHora": "2025-07-26T02:40:00",
+    "origem": "790800-8",
+    "destino": "455663-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2235.46,
+    "dataHora": "2025-07-08T02:12:00",
+    "origem": "980900-7",
+    "destino": "966218-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4611.59,
+    "dataHora": "2025-07-29T02:11:00",
+    "origem": "703962-0",
+    "destino": "314960-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6436.31,
+    "dataHora": "2025-07-26T14:09:00",
+    "origem": "892601-8",
+    "destino": "890125-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 134.91,
+    "dataHora": "2025-07-03T11:51:00",
+    "origem": "656355-5",
+    "destino": "569111-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5656.5,
+    "dataHora": "2025-07-05T09:06:00",
+    "origem": "293015-5",
+    "destino": "388290-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9137.41,
+    "dataHora": "2025-07-18T14:22:00",
+    "origem": "683939-7",
+    "destino": "622934-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2005.9,
+    "dataHora": "2025-07-15T07:01:00",
+    "origem": "411347-7",
+    "destino": "298158-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5873.34,
+    "dataHora": "2025-07-04T07:51:00",
+    "origem": "757030-1",
+    "destino": "786257-9",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9391.76,
+    "dataHora": "2025-07-22T05:14:00",
+    "origem": "874086-3",
+    "destino": "751962-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8606.19,
+    "dataHora": "2025-07-21T18:55:00",
+    "origem": "563193-4",
+    "destino": "768753-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2668.76,
+    "dataHora": "2025-07-24T02:39:00",
+    "origem": "485940-2",
+    "destino": "349177-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7095.58,
+    "dataHora": "2025-07-06T00:58:00",
+    "origem": "409951-0",
+    "destino": "988435-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5107.08,
+    "dataHora": "2025-07-05T17:49:00",
+    "origem": "943924-5",
+    "destino": "436454-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6482.89,
+    "dataHora": "2025-07-13T17:16:00",
+    "origem": "563397-1",
+    "destino": "145060-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6072.15,
+    "dataHora": "2025-07-14T14:04:00",
+    "origem": "412670-4",
+    "destino": "497877-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 326.07,
+    "dataHora": "2025-07-17T14:49:00",
+    "origem": "523544-1",
+    "destino": "976605-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3578.66,
+    "dataHora": "2025-07-19T15:30:00",
+    "origem": "800522-0",
+    "destino": "556722-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1462.73,
+    "dataHora": "2025-07-08T08:23:00",
+    "origem": "412823-5",
+    "destino": "541329-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6736.21,
+    "dataHora": "2025-07-24T18:36:00",
+    "origem": "877419-5",
+    "destino": "657195-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6921.77,
+    "dataHora": "2025-07-02T01:07:00",
+    "origem": "436071-4",
+    "destino": "614710-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7983.76,
+    "dataHora": "2025-07-20T08:31:00",
+    "origem": "487696-5",
+    "destino": "825913-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8703.89,
+    "dataHora": "2025-07-13T00:50:00",
+    "origem": "348380-2",
+    "destino": "294147-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1447.47,
+    "dataHora": "2025-07-17T18:43:00",
+    "origem": "282509-8",
+    "destino": "733664-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6463.79,
+    "dataHora": "2025-07-20T18:09:00",
+    "origem": "579077-0",
+    "destino": "450684-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5801.09,
+    "dataHora": "2025-07-06T01:54:00",
+    "origem": "182047-8",
+    "destino": "237311-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2477.08,
+    "dataHora": "2025-07-13T14:26:00",
+    "origem": "550468-8",
+    "destino": "511845-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6418.84,
+    "dataHora": "2025-07-17T17:50:00",
+    "origem": "349203-2",
+    "destino": "507990-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6070.49,
+    "dataHora": "2025-07-17T03:32:00",
+    "origem": "525803-2",
+    "destino": "698951-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6623.43,
+    "dataHora": "2025-07-20T19:27:00",
+    "origem": "669022-0",
+    "destino": "952736-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3428.89,
+    "dataHora": "2025-07-26T09:44:00",
+    "origem": "697669-5",
+    "destino": "323010-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4788.4,
+    "dataHora": "2025-07-09T20:52:00",
+    "origem": "963030-0",
+    "destino": "903812-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2241.66,
+    "dataHora": "2025-07-04T18:46:00",
+    "origem": "337571-9",
+    "destino": "541397-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8702.98,
+    "dataHora": "2025-07-27T19:22:00",
+    "origem": "807567-3",
+    "destino": "690511-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5571.31,
+    "dataHora": "2025-07-08T14:19:00",
+    "origem": "971569-5",
+    "destino": "957709-7",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 571.19,
+    "dataHora": "2025-07-20T23:24:00",
+    "origem": "877152-9",
+    "destino": "245615-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4530.74,
+    "dataHora": "2025-07-23T03:25:00",
+    "origem": "797615-1",
+    "destino": "923779-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 19.77,
+    "dataHora": "2025-07-12T19:19:00",
+    "origem": "700733-2",
+    "destino": "438205-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9336.94,
+    "dataHora": "2025-07-12T11:16:00",
+    "origem": "391990-4",
+    "destino": "647573-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2382.14,
+    "dataHora": "2025-07-02T16:27:00",
+    "origem": "316700-0",
+    "destino": "631322-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 341.9,
+    "dataHora": "2025-07-19T09:42:00",
+    "origem": "620398-4",
+    "destino": "396646-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9638.41,
+    "dataHora": "2025-07-04T02:44:00",
+    "origem": "999634-7",
+    "destino": "903589-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1792.89,
+    "dataHora": "2025-07-19T16:45:00",
+    "origem": "102928-7",
+    "destino": "884002-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1582.25,
+    "dataHora": "2025-07-01T15:54:00",
+    "origem": "511421-4",
+    "destino": "496335-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7113.17,
+    "dataHora": "2025-07-29T22:26:00",
+    "origem": "714579-1",
+    "destino": "942925-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3214.09,
+    "dataHora": "2025-07-19T11:31:00",
+    "origem": "322813-4",
+    "destino": "762096-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5094.91,
+    "dataHora": "2025-07-01T08:19:00",
+    "origem": "380085-5",
+    "destino": "728551-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9708.05,
+    "dataHora": "2025-07-04T00:51:00",
+    "origem": "604755-9",
+    "destino": "572797-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1946.96,
+    "dataHora": "2025-07-12T23:26:00",
+    "origem": "949590-0",
+    "destino": "955546-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6887.36,
+    "dataHora": "2025-07-06T19:50:00",
+    "origem": "597689-5",
+    "destino": "744129-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3392.83,
+    "dataHora": "2025-07-24T17:24:00",
+    "origem": "343382-5",
+    "destino": "257383-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9059.64,
+    "dataHora": "2025-07-08T19:04:00",
+    "origem": "517512-3",
+    "destino": "582020-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9961.75,
+    "dataHora": "2025-07-04T03:13:00",
+    "origem": "571780-4",
+    "destino": "831939-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6698.71,
+    "dataHora": "2025-07-06T05:06:00",
+    "origem": "254896-3",
+    "destino": "689790-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8445.2,
+    "dataHora": "2025-07-05T21:59:00",
+    "origem": "680719-0",
+    "destino": "617648-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9892.69,
+    "dataHora": "2025-07-27T13:15:00",
+    "origem": "553502-1",
+    "destino": "709469-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9902.92,
+    "dataHora": "2025-07-01T22:45:00",
+    "origem": "895106-3",
+    "destino": "712376-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 570.97,
+    "dataHora": "2025-07-03T09:28:00",
+    "origem": "198441-8",
+    "destino": "358522-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9507.62,
+    "dataHora": "2025-07-07T03:42:00",
+    "origem": "592024-2",
+    "destino": "182398-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 50.82,
+    "dataHora": "2025-07-21T06:24:00",
+    "origem": "361433-5",
+    "destino": "365244-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2515.88,
+    "dataHora": "2025-07-24T00:25:00",
+    "origem": "936573-0",
+    "destino": "582848-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1826.03,
+    "dataHora": "2025-07-15T02:16:00",
+    "origem": "591423-2",
+    "destino": "890059-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6502.15,
+    "dataHora": "2025-07-24T00:36:00",
+    "origem": "530053-7",
+    "destino": "304537-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8572.74,
+    "dataHora": "2025-07-26T12:55:00",
+    "origem": "825494-4",
+    "destino": "759919-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8380.54,
+    "dataHora": "2025-07-04T18:39:00",
+    "origem": "598291-9",
+    "destino": "321626-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5924.11,
+    "dataHora": "2025-07-23T21:56:00",
+    "origem": "928636-8",
+    "destino": "500292-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3404.66,
+    "dataHora": "2025-07-11T10:08:00",
+    "origem": "192489-0",
+    "destino": "330996-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3093.43,
+    "dataHora": "2025-07-13T07:25:00",
+    "origem": "105166-2",
+    "destino": "628273-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2173.58,
+    "dataHora": "2025-07-02T02:45:00",
+    "origem": "256780-1",
+    "destino": "650416-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 722.72,
+    "dataHora": "2025-07-17T05:16:00",
+    "origem": "541323-2",
+    "destino": "836655-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5987.32,
+    "dataHora": "2025-07-24T05:52:00",
+    "origem": "104677-1",
+    "destino": "462788-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4990.08,
+    "dataHora": "2025-07-29T19:22:00",
+    "origem": "327955-2",
+    "destino": "130116-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9087.75,
+    "dataHora": "2025-07-17T00:32:00",
+    "origem": "254655-2",
+    "destino": "345395-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6915.05,
+    "dataHora": "2025-07-04T18:05:00",
+    "origem": "759219-4",
+    "destino": "783015-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1683.7,
+    "dataHora": "2025-07-18T00:37:00",
+    "origem": "549501-3",
+    "destino": "643229-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9385.69,
+    "dataHora": "2025-07-22T10:26:00",
+    "origem": "690039-7",
+    "destino": "484213-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7955.83,
+    "dataHora": "2025-07-20T21:22:00",
+    "origem": "475982-2",
+    "destino": "983295-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7945.45,
+    "dataHora": "2025-07-22T05:06:00",
+    "origem": "560460-9",
+    "destino": "317747-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6969.85,
+    "dataHora": "2025-07-16T18:24:00",
+    "origem": "986159-3",
+    "destino": "226586-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2973.68,
+    "dataHora": "2025-07-07T03:08:00",
+    "origem": "498240-3",
+    "destino": "596196-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3197.06,
+    "dataHora": "2025-07-17T03:10:00",
+    "origem": "676479-3",
+    "destino": "256110-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7320.68,
+    "dataHora": "2025-07-23T17:34:00",
+    "origem": "802489-1",
+    "destino": "874498-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1844.27,
+    "dataHora": "2025-07-21T12:32:00",
+    "origem": "343912-2",
+    "destino": "965567-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8662.86,
+    "dataHora": "2025-07-26T07:27:00",
+    "origem": "538511-5",
+    "destino": "893791-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5849.22,
+    "dataHora": "2025-07-16T12:45:00",
+    "origem": "280540-7",
+    "destino": "584462-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2730.95,
+    "dataHora": "2025-07-16T16:20:00",
+    "origem": "996434-7",
+    "destino": "955999-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9003.26,
+    "dataHora": "2025-07-10T03:26:00",
+    "origem": "153638-7",
+    "destino": "591552-0",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7521.71,
+    "dataHora": "2025-07-04T11:19:00",
+    "origem": "449220-8",
+    "destino": "412587-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5214.93,
+    "dataHora": "2025-07-18T08:52:00",
+    "origem": "920767-2",
+    "destino": "889132-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5939.25,
+    "dataHora": "2025-07-13T15:21:00",
+    "origem": "620897-5",
+    "destino": "130382-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9558.87,
+    "dataHora": "2025-07-01T04:46:00",
+    "origem": "126387-8",
+    "destino": "755471-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3261.15,
+    "dataHora": "2025-07-18T19:34:00",
+    "origem": "414128-0",
+    "destino": "310590-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 3730.21,
+    "dataHora": "2025-07-20T20:41:00",
+    "origem": "611253-9",
+    "destino": "339296-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4271.11,
+    "dataHora": "2025-07-11T10:54:00",
+    "origem": "566318-4",
+    "destino": "629690-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1744.11,
+    "dataHora": "2025-07-18T22:23:00",
+    "origem": "574381-7",
+    "destino": "778150-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4117.7,
+    "dataHora": "2025-07-15T19:14:00",
+    "origem": "466918-3",
+    "destino": "152863-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7651.24,
+    "dataHora": "2025-07-23T09:35:00",
+    "origem": "510729-6",
+    "destino": "513801-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4589.43,
+    "dataHora": "2025-07-09T00:34:00",
+    "origem": "636939-8",
+    "destino": "955006-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3675.36,
+    "dataHora": "2025-07-18T17:48:00",
+    "origem": "441829-1",
+    "destino": "730538-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4030.46,
+    "dataHora": "2025-07-26T14:52:00",
+    "origem": "130048-1",
+    "destino": "112782-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 220.6,
+    "dataHora": "2025-07-06T23:16:00",
+    "origem": "202602-7",
+    "destino": "550703-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8187.08,
+    "dataHora": "2025-07-30T18:46:00",
+    "origem": "272869-5",
+    "destino": "580681-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 944.47,
+    "dataHora": "2025-07-28T17:36:00",
+    "origem": "194951-7",
+    "destino": "805725-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6568.59,
+    "dataHora": "2025-07-26T08:15:00",
+    "origem": "907727-1",
+    "destino": "882517-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3000.58,
+    "dataHora": "2025-07-12T09:31:00",
+    "origem": "760196-8",
+    "destino": "192871-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9079.11,
+    "dataHora": "2025-07-23T00:41:00",
+    "origem": "671228-0",
+    "destino": "540901-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5629.4,
+    "dataHora": "2025-07-18T06:46:00",
+    "origem": "707021-3",
+    "destino": "937653-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7189.37,
+    "dataHora": "2025-07-27T03:25:00",
+    "origem": "377099-3",
+    "destino": "517590-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2285.72,
+    "dataHora": "2025-07-18T01:02:00",
+    "origem": "372887-9",
+    "destino": "267608-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7231.15,
+    "dataHora": "2025-07-21T00:13:00",
+    "origem": "334327-6",
+    "destino": "894404-4",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6145.15,
+    "dataHora": "2025-07-27T23:46:00",
+    "origem": "893719-1",
+    "destino": "358568-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 372.86,
+    "dataHora": "2025-07-25T22:34:00",
+    "origem": "916445-4",
+    "destino": "419134-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4091.25,
+    "dataHora": "2025-07-26T02:45:00",
+    "origem": "771783-4",
+    "destino": "722244-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1171.25,
+    "dataHora": "2025-07-27T05:52:00",
+    "origem": "659830-7",
+    "destino": "769196-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 496.62,
+    "dataHora": "2025-07-01T02:13:00",
+    "origem": "274441-2",
+    "destino": "278888-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2020.56,
+    "dataHora": "2025-07-24T13:53:00",
+    "origem": "260233-1",
+    "destino": "853884-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6957.81,
+    "dataHora": "2025-07-14T00:37:00",
+    "origem": "609068-6",
+    "destino": "540520-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8690.42,
+    "dataHora": "2025-07-02T11:25:00",
+    "origem": "552237-3",
+    "destino": "101586-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 392.88,
+    "dataHora": "2025-07-05T05:43:00",
+    "origem": "807109-3",
+    "destino": "530989-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8279.46,
+    "dataHora": "2025-07-14T01:44:00",
+    "origem": "112464-6",
+    "destino": "834769-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1816.66,
+    "dataHora": "2025-07-08T16:17:00",
+    "origem": "515681-2",
+    "destino": "701509-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9956.97,
+    "dataHora": "2025-07-10T18:19:00",
+    "origem": "555759-7",
+    "destino": "385940-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 437.04,
+    "dataHora": "2025-07-15T20:11:00",
+    "origem": "394340-6",
+    "destino": "889540-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 143.81,
+    "dataHora": "2025-07-21T12:59:00",
+    "origem": "152689-5",
+    "destino": "862627-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1478.95,
+    "dataHora": "2025-07-22T20:57:00",
+    "origem": "584759-0",
+    "destino": "158040-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9862.25,
+    "dataHora": "2025-07-22T22:29:00",
+    "origem": "483663-0",
+    "destino": "500813-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2653.83,
+    "dataHora": "2025-07-14T07:03:00",
+    "origem": "160273-7",
+    "destino": "346329-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 9944.85,
+    "dataHora": "2025-07-10T03:48:00",
+    "origem": "958626-3",
+    "destino": "302745-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5372.18,
+    "dataHora": "2025-07-07T01:00:00",
+    "origem": "579392-9",
+    "destino": "131045-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8242.67,
+    "dataHora": "2025-07-15T21:43:00",
+    "origem": "783433-2",
+    "destino": "516660-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5347.59,
+    "dataHora": "2025-07-28T01:30:00",
+    "origem": "593367-8",
+    "destino": "318275-1",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8193.65,
+    "dataHora": "2025-07-25T03:48:00",
+    "origem": "571226-9",
+    "destino": "388227-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8312.92,
+    "dataHora": "2025-07-26T09:35:00",
+    "origem": "195283-6",
+    "destino": "608984-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 7720.8,
+    "dataHora": "2025-07-19T10:43:00",
+    "origem": "561812-2",
+    "destino": "869274-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4101.13,
+    "dataHora": "2025-07-08T03:01:00",
+    "origem": "183866-0",
+    "destino": "524099-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 553.24,
+    "dataHora": "2025-07-13T01:41:00",
+    "origem": "784175-2",
+    "destino": "923500-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4911.27,
+    "dataHora": "2025-07-10T10:33:00",
+    "origem": "708620-8",
+    "destino": "851738-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1930.93,
+    "dataHora": "2025-07-06T02:14:00",
+    "origem": "757166-6",
+    "destino": "592374-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1518.39,
+    "dataHora": "2025-07-11T00:57:00",
+    "origem": "620622-2",
+    "destino": "586387-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 550.72,
+    "dataHora": "2025-07-30T03:56:00",
+    "origem": "342078-0",
+    "destino": "212042-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6355.64,
+    "dataHora": "2025-07-23T07:14:00",
+    "origem": "284316-6",
+    "destino": "192880-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1633.03,
+    "dataHora": "2025-07-30T00:15:00",
+    "origem": "479630-0",
+    "destino": "772839-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 478.79,
+    "dataHora": "2025-07-11T11:47:00",
+    "origem": "776543-2",
+    "destino": "749149-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8558.4,
+    "dataHora": "2025-07-10T20:34:00",
+    "origem": "332040-4",
+    "destino": "137934-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1404.18,
+    "dataHora": "2025-07-02T23:48:00",
+    "origem": "323436-4",
+    "destino": "626788-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9286.39,
+    "dataHora": "2025-07-04T20:20:00",
+    "origem": "331474-6",
+    "destino": "726679-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9154.59,
+    "dataHora": "2025-07-05T08:46:00",
+    "origem": "812535-0",
+    "destino": "797974-1",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9962.91,
+    "dataHora": "2025-07-15T01:42:00",
+    "origem": "490330-8",
+    "destino": "457539-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2528.36,
+    "dataHora": "2025-07-05T10:01:00",
+    "origem": "180646-2",
+    "destino": "598880-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8736.41,
+    "dataHora": "2025-07-24T09:00:00",
+    "origem": "891648-0",
+    "destino": "362060-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4479.72,
+    "dataHora": "2025-07-09T01:41:00",
+    "origem": "863690-8",
+    "destino": "687562-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2895.75,
+    "dataHora": "2025-07-01T06:32:00",
+    "origem": "478397-9",
+    "destino": "984521-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4900.25,
+    "dataHora": "2025-07-12T02:19:00",
+    "origem": "272969-8",
+    "destino": "758009-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8865.33,
+    "dataHora": "2025-07-17T20:45:00",
+    "origem": "333588-6",
+    "destino": "428303-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3570.3,
+    "dataHora": "2025-07-07T08:08:00",
+    "origem": "583582-8",
+    "destino": "715556-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 650.09,
+    "dataHora": "2025-07-08T07:09:00",
+    "origem": "690982-4",
+    "destino": "444721-8",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 8341.68,
+    "dataHora": "2025-07-26T09:14:00",
+    "origem": "106297-6",
+    "destino": "767600-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1246.68,
+    "dataHora": "2025-07-04T05:04:00",
+    "origem": "503435-9",
+    "destino": "271587-7",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4203.69,
+    "dataHora": "2025-07-07T11:38:00",
+    "origem": "250071-0",
+    "destino": "352941-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7914.43,
+    "dataHora": "2025-07-15T07:27:00",
+    "origem": "689520-3",
+    "destino": "676471-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 425.54,
+    "dataHora": "2025-07-24T18:12:00",
+    "origem": "248170-6",
+    "destino": "286112-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1068.0,
+    "dataHora": "2025-07-16T10:30:00",
+    "origem": "571888-3",
+    "destino": "776629-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8119.8,
+    "dataHora": "2025-07-09T01:37:00",
+    "origem": "279282-3",
+    "destino": "627736-4",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7893.92,
+    "dataHora": "2025-07-01T23:47:00",
+    "origem": "541998-2",
+    "destino": "521178-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 9492.5,
+    "dataHora": "2025-07-04T23:48:00",
+    "origem": "238079-5",
+    "destino": "552168-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3798.91,
+    "dataHora": "2025-07-07T09:57:00",
+    "origem": "456337-3",
+    "destino": "767505-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2242.75,
+    "dataHora": "2025-07-14T03:52:00",
+    "origem": "396388-5",
+    "destino": "326329-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2569.29,
+    "dataHora": "2025-07-14T08:28:00",
+    "origem": "554874-0",
+    "destino": "916038-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 105.89,
+    "dataHora": "2025-07-16T00:11:00",
+    "origem": "833743-6",
+    "destino": "177574-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 8164.75,
+    "dataHora": "2025-07-08T03:04:00",
+    "origem": "327051-8",
+    "destino": "917550-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 2356.01,
+    "dataHora": "2025-07-14T02:01:00",
+    "origem": "435304-0",
+    "destino": "871567-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 4155.21,
+    "dataHora": "2025-07-26T00:01:00",
+    "origem": "696883-3",
+    "destino": "296870-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2073.82,
+    "dataHora": "2025-07-16T19:20:00",
+    "origem": "505375-6",
+    "destino": "116743-6",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7721.36,
+    "dataHora": "2025-07-17T10:16:00",
+    "origem": "741792-0",
+    "destino": "581045-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1012.61,
+    "dataHora": "2025-07-14T06:35:00",
+    "origem": "648830-2",
+    "destino": "371756-0",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 4883.5,
+    "dataHora": "2025-07-24T16:31:00",
+    "origem": "262339-2",
+    "destino": "260818-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 3837.09,
+    "dataHora": "2025-07-10T17:33:00",
+    "origem": "929862-9",
+    "destino": "976737-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 4322.45,
+    "dataHora": "2025-07-21T04:40:00",
+    "origem": "521237-9",
+    "destino": "143350-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1924.04,
+    "dataHora": "2025-07-25T06:11:00",
+    "origem": "800732-3",
+    "destino": "988849-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 894.33,
+    "dataHora": "2025-07-02T17:02:00",
+    "origem": "825293-2",
+    "destino": "421821-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 6292.47,
+    "dataHora": "2025-07-11T14:03:00",
+    "origem": "131161-1",
+    "destino": "216357-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 2008.22,
+    "dataHora": "2025-07-22T03:24:00",
+    "origem": "488886-5",
+    "destino": "445317-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2838.6,
+    "dataHora": "2025-07-16T10:53:00",
+    "origem": "998456-8",
+    "destino": "847171-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6607.73,
+    "dataHora": "2025-07-14T14:33:00",
+    "origem": "534412-3",
+    "destino": "387091-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1638.73,
+    "dataHora": "2025-07-11T00:33:00",
+    "origem": "745541-1",
+    "destino": "522470-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 302.62,
+    "dataHora": "2025-07-12T12:31:00",
+    "origem": "830791-1",
+    "destino": "692967-3",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 7233.57,
+    "dataHora": "2025-07-16T02:46:00",
+    "origem": "449119-3",
+    "destino": "980400-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3523.61,
+    "dataHora": "2025-07-28T16:04:00",
+    "origem": "139981-7",
+    "destino": "114920-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 774.07,
+    "dataHora": "2025-07-25T11:00:00",
+    "origem": "767072-7",
+    "destino": "846444-5",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1563.91,
+    "dataHora": "2025-07-16T15:22:00",
+    "origem": "449812-2",
+    "destino": "406873-2",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6824.42,
+    "dataHora": "2025-07-02T07:52:00",
+    "origem": "430120-8",
+    "destino": "209820-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 9141.67,
+    "dataHora": "2025-07-28T11:09:00",
+    "origem": "638131-4",
+    "destino": "175782-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 311.0,
+    "dataHora": "2025-07-22T19:42:00",
+    "origem": "122716-5",
+    "destino": "474101-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 2107.66,
+    "dataHora": "2025-07-18T22:53:00",
+    "origem": "429657-9",
+    "destino": "756240-9",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "TED",
+    "valor": 1124.68,
+    "dataHora": "2025-07-15T05:58:00",
+    "origem": "792741-2",
+    "destino": "557013-5",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6338.16,
+    "dataHora": "2025-07-10T12:55:00",
+    "origem": "600576-0",
+    "destino": "444189-8",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5479.78,
+    "dataHora": "2025-07-09T06:47:00",
+    "origem": "635672-1",
+    "destino": "812923-5",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8122.6,
+    "dataHora": "2025-07-03T23:38:00",
+    "origem": "446427-9",
+    "destino": "105950-3",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 475.04,
+    "dataHora": "2025-07-23T07:32:00",
+    "origem": "144116-7",
+    "destino": "168015-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1412.59,
+    "dataHora": "2025-07-24T06:33:00",
+    "origem": "121795-5",
+    "destino": "123311-3",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 233.78,
+    "dataHora": "2025-07-09T03:48:00",
+    "origem": "159712-7",
+    "destino": "330230-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 757.0,
+    "dataHora": "2025-07-15T03:52:00",
+    "origem": "292581-3",
+    "destino": "912484-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 226.8,
+    "dataHora": "2025-07-18T13:46:00",
+    "origem": "314745-7",
+    "destino": "816791-9",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8390.64,
+    "dataHora": "2025-07-27T15:50:00",
+    "origem": "538932-6",
+    "destino": "823856-0",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 3553.65,
+    "dataHora": "2025-07-07T05:52:00",
+    "origem": "233501-7",
+    "destino": "245098-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 6011.44,
+    "dataHora": "2025-07-15T11:40:00",
+    "origem": "683397-5",
+    "destino": "820951-1",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 5515.97,
+    "dataHora": "2025-07-05T13:57:00",
+    "origem": "736588-0",
+    "destino": "564660-6",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 1634.54,
+    "dataHora": "2025-07-13T22:09:00",
+    "origem": "746697-4",
+    "destino": "944320-2",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 6063.62,
+    "dataHora": "2025-07-29T16:11:00",
+    "origem": "129575-9",
+    "destino": "645298-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "DOC",
+    "valor": 1546.38,
+    "dataHora": "2025-07-14T08:16:00",
+    "origem": "730355-3",
+    "destino": "555071-6",
+    "tipoConta": "PJ"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 5953.03,
+    "dataHora": "2025-07-10T09:29:00",
+    "origem": "195610-1",
+    "destino": "783740-4",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "PIX",
+    "valor": 7479.29,
+    "dataHora": "2025-07-03T22:18:00",
+    "origem": "811837-7",
+    "destino": "291193-2",
+    "tipoConta": "PF"
+  },
+  {
+    "tipo": "TED",
+    "valor": 173.08,
+    "dataHora": "2025-07-06T04:29:00",
+    "origem": "358275-4",
+    "destino": "159491-7",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 5588.56,
+    "dataHora": "2025-07-26T12:43:00",
+    "origem": "442603-6",
+    "destino": "960285-8",
+    "tipoConta": "MEI"
+  },
+  {
+    "tipo": "TED",
+    "valor": 8115.1,
+    "dataHora": "2025-07-15T16:42:00",
+    "origem": "459445-4",
+    "destino": "644933-4",
+    "tipoConta": "PJ"
+  }
+]
