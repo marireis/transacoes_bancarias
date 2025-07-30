@@ -6,7 +6,6 @@ import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import com.marina.projeto.bancario.model.Transferencia;
 
 import java.io.InputStream;
-import java.util.Collections;
 import java.util.List;
 
 public class LeitorArquivoJson {

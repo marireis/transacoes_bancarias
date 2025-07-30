@@ -5,6 +5,5 @@ import com.marina.projeto.bancario.model.Transferencia;
 
 public interface RegraTransferencia {
 
-
     ResultadoTransferencia processar(Transferencia transferencia);
 }

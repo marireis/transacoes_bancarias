@@ -2,27 +2,37 @@ package com.marina.projeto.bancario.strategy;
 
 import com.marina.projeto.bancario.model.ResultadoTransferencia;
 import com.marina.projeto.bancario.model.Transferencia;
-
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.stereotype.Service;
 import java.time.DayOfWeek;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 
+@Slf4j
+@Service
 public class RegraDOC implements RegraTransferencia {
 
     @Override
     public ResultadoTransferencia processar(Transferencia transferencia) {
+        log.debug("Processando DOC: {}", transferencia);
+
         double valor = transferencia.getValor();
         LocalDateTime dataHora = transferencia.getDataHora();
 
         if (finalDeSemana(dataHora)) {
+
+            log.warn("DOC rejeitado: tentativa em final de semana.");
             return new ResultadoTransferencia(transferencia, "DOC só pode ser feito em dias úteis!");
         }
 
         if (valor < 1.00) {
+            log.warn("DOC rejeitado: valor abaixo do mínimo.");
             return new ResultadoTransferencia(transferencia, "Valor mínimo para DOC é R$1,00");
         }
 
         if (valor > 4999.99) {
+
+            log.warn("DOC rejeitado: valor acima do máximo permitido.");
             return new ResultadoTransferencia(transferencia, "Valor máximo para DOC é R$4.999,99");
         }
 
@@ -34,7 +44,7 @@ public class RegraDOC implements RegraTransferencia {
         } else {
             dataCredito = proximoDiaUtil(dataHora.plusDays(1)).toLocalDate().atTime(9, 0);
         }
-
+        log.info("DOC aprovado para crédito em: {}", dataCredito);
         return new ResultadoTransferencia(transferencia, dataCredito, null);
     }
 

@@ -32,6 +32,6 @@ public class ResultadoTransferencia {
     }
 
     public boolean isSucesso() {
-        return aceita;
+        return motivoRejeicao == null || motivoRejeicao.isEmpty();
     }
 }
